@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "quikLink": "QuikLink",
+    "settings": "Ayarlar",
+    "bleDeviceList": "Cihazlar"
+  },
+  "screens": {
+    "home": {
+      "title": "Ana Sayfa"
+    },
+    "quikLink": {
+      "title": "QuikLink"
+    },
+    "settings": {
+      "title": "Ayarlar"
+    },
+    "deviceList": {
+      "title": "Cihazlar"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "navigation": {
+    "home": "Home",
+    "quikLink": "QuikLink",
+    "settings": "Settings",
+    "bleDeviceList": "Devices"
+  },
+  "screens": {
+    "home": {
+      "title": "Home"
+    },
+    "quikLink": {
+      "title": "QuikLink"
+    },
+    "settings": {
+      "title": "Settings"
+    },
+    "deviceList": {
+      "title": "Devices"
+    }
+  }
+}
